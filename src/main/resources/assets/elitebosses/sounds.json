@@ -1,0 +1,74 @@
+{
+  "chocochase1": {
+    "sounds": [
+      {
+        "name": "elitebosses:chocochase1",
+        "stream": true
+      }
+    ]
+  },
+  "chocochase2": {
+    "sounds": [
+      {
+        "name": "elitebosses:chocochase2",
+        "stream": true
+      }
+    ]
+  },
+  "chocospawn": {
+    "sounds": [
+      {
+        "name": "elitebosses:chocospawn",
+        "stream": true
+      }
+    ]
+  },
+  "houndlurk": {
+    "sounds": [
+      {
+        "name": "elitebosses:houndlurk",
+        "stream": true
+      }
+    ]
+  },
+  "houndchase": {
+    "sounds": [
+      {
+        "name": "elitebosses:houndchase",
+        "stream": true
+      }
+    ]
+  },
+  "stalkerstalk1": {
+    "sounds": [
+      {
+        "name": "elitebosses:stalkerstalk1",
+        "stream": true
+      }
+    ]
+  },
+  "stalkerstalk2": {
+    "sounds": [
+      {
+        "name": "elitebosses:stalkerstalk2",
+        "stream": true
+      }
+    ]
+  },
+  "stalkerchase": {
+    "sounds": [
+      {
+        "name": "elitebosses:stalkerchase",
+        "stream": true
+      }
+    ]
+  },
+  "flesh_form": {
+    "sounds": [
+      {
+        "name": "elitebosses:flesh_form",
+        "stream": false
+      }
+    ]
+  }
+}

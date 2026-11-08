@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "TGT",
+    "AWA",
+    "CSC"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "A": {
+      "item": "minecraft:golden_apple"
+    },
+    "W": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "elitebosses:vitos_blessing",
+    "count": 1
+  }
+}

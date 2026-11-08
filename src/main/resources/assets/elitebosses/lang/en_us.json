@@ -1,0 +1,14 @@
+{
+  "entity.elitebosses.chocolate": "Chocolate",
+  "item.elitebosses.chocolate_spawn_egg": "Chocolate Spawn Egg",
+  "entity.elitebosses.houndmaster": "Houndmaster",
+  "item.elitebosses.houndmaster_spawn_egg": "Houndmaster Spawn Egg",
+  "entity.elitebosses.stalker": "Stalker",
+  "item.elitebosses.stalker_spawn_egg": "Stalker Spawn Egg",
+  "item.elitebosses.vitos_blessing": "Vito's Blessing",
+  "item.elitebosses.survival_manual": "Survival Manual",
+  "item.elitebosses.black_fate_totem": "Totem BlackFate",
+  "effect.elitebosses.obsession": "Obsession",
+  "effect.elitebosses.brine": "Brine",
+  "itemGroup.elitebosses": "Elite Bosses"
+}
